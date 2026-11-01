@@ -1,2 +1,2 @@
 # nandini-git
-this is my second git project 
+this is my second git name 
